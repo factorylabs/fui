@@ -1,0 +1,2 @@
+module FuiHelper
+end
